@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![](https://komarev.com/ghpvc/?username=christianborle&color=black&style=plastic&label=♡)
+![](https://komarev.com/ghpvc/?username=christianborle&color=0d0c0c&style=plastic&label=♡)
 
 <div align="center"> 
   ♡ <a href="https://cartoonjax.atabook.org" target="_blank">ata</a> | rmking straw
